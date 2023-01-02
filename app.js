@@ -5,15 +5,34 @@ console.log(
 
 // Exercise 1
 console.log("EXERCISE 1:\n==========\n");
+let a = 20;
+let b = 4;
+let add = a+b;
+let minus = a-b;
+let multiply = a*b;
+let dividing = a/b;
 
-// YOUR CODE HERE
-
-// Exercise 2
+// Exercise 2 - Commented my answers below
 console.log("EXERCISE 2:\n==========\n");
+/**
+ * '1111'
+ * '11eleven'
+ * 12
+ * 'Frodo11'
+ * 'true11'
+ * 'FrodoBaggins'
+ */
 
-// YOUR CODE HERE
-
-// Exercise 3
+// Exercise 3 - Commented my answers below
 console.log("EXERCISE 3:\n==========\n");
-
-// YOUR CODE HERE
+/**
+ * true
+ * false
+ * true
+ * false
+ * true
+ * true
+ * false
+ * false
+ * true
+ */

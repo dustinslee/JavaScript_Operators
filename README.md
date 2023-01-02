@@ -23,7 +23,7 @@ You can print the value of the variables to the browser console (ex: `console.lo
 
 ```
 let num = 11;
-let str = "11";
+let str = "11"; 
 let str2 = "eleven";
 let isPresent = true;
 let firstName = "Frodo";
